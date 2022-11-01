@@ -1,0 +1,16 @@
+﻿[
+  {
+    "ID": "A1",
+    "Name": "Test1",
+    "Icon": "A1_Icon",
+    "Lv_Max": 10,
+    "Desc": "A1_desc"
+  },
+  {
+    "ID": "A2",
+    "Name": "Test2",
+    "Icon": "A2_icon",
+    "Lv_Max": 20,
+    "Desc": "A2_desc"
+  }
+]
